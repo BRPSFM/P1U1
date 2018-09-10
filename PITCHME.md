@@ -11,23 +11,24 @@
 ## They live
 ## in a house
 
+---?image=assets/panda.png&size=40% 100%&position=left
 
----?image=assets/cute.jpg&size=40% 100%&position=left
+## Black and white 
+## panda
 
-## pandas are cute
 
 ---?image=assets/baby.png&size=40% 100%&position=left
 
 # Baby
 
+---?image=assets/cute.jpg&size=40% 100%&position=left
+
+## baby pandas are cute
+
+
 ---?image=assets/love.png&size=40% 100%&position=left
 
 # Love
-
----?image=assets/panda.png&size=40% 100%&position=left
-
-## Black and white 
-## panda
 
 ---?image=assets/yellow.jpeg&size=40% 100%&position=left
 
