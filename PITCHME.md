@@ -23,7 +23,7 @@
 
 ---?image=assets/cute.jpg&size=40% 100%&position=left
 
-## baby pandas are cute
+### baby pandas are cute
 
 
 ---?image=assets/love.png&size=40% 100%&position=left
