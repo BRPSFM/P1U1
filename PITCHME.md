@@ -1,5 +1,5 @@
 ---?image=assets/world_2.jpeg
-# Where are we going to go?
+#### @color[white](Where are we going to go?)
 ---?image=assets/cute.jpg&size=40% 100%&position=left
 
 ## cute kittens
