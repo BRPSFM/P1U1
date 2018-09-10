@@ -42,11 +42,11 @@
 
 ## Friends
 
----?image=assets/present.png&size=40% 100%&position=left
+---?image=assets/presents.png&size=40% 100%&position=left
 
 ## present
 
----?image=assets/koala.jpg&size=40% 100%&position=left
+---?image=assets/Koala.jpg&size=40% 100%&position=left
 
 ## Koala
 
