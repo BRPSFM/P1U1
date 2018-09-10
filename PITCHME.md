@@ -1,5 +1,5 @@
----
-# Fun words
+---?image=assets/world_2.jpg
+# Where are we going to go?
 ---?image=assets/cute.jpg&size=40% 100%&position=left
 
 ## cute kittens
